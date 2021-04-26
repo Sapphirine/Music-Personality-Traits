@@ -7,3 +7,7 @@ This project aims at deriving personality traits from music related data and use
 
 # Accessibility
 Even though the files in the repository take csv or similar files as inputs, it is easy to transform your own datasets to use the pipeline and the evaluation step. 
+
+# Dataset
+The original dataset used in this project is gained from the website: http://ocelma.net/MusicRecommendationDataset/lastfm-360K.html
+It is gained from Last.fm API and collected by Oscar Celma. 
